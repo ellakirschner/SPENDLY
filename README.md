@@ -126,24 +126,32 @@ These functions allow Spendly to record financial information, calculate spendin
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+
+Project is: **Complete**
+
+Spendly has been completed with all its main features working, including expense tracking, monthly budgeting and savings management. The application is functional and ready to use. While the project is complete for this assessment, there is still room for future improvements and additional features.
 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+Although Spendly is functional, there are still some areas I would like to improve, particularly the overall smoothness and responsiveness of the user interface.
 
-To do:
-- Feature to be added 1
-- Feature to be added 2
+**Room for improvement:**
+- **Smoother Navigation:** Improve transitions between pages to make the application feel more seamless.
+- **User Interface:** Refine the layout, spacing and positioning of buttons and other elements.
+- **Responsiveness:** Improve how the application adjusts to different window sizes.
+- **Animations:** Make the savings confetti animation smoother and more consistent.
 
+**To Do:**
+- Add spending alerts to notify users when they are approaching or exceeding their monthly budget.
+- Introduce smoother transitions between pages.
+- Improve the layout and alignment of buttons.
+- Make the interface more responsive to different screen sizes.
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+
+- Spendly was inspired by the idea of making budgeting and managing personal finances simpler and more enjoyable.
+- [Create a Budget Tracker App with Python Tkinter – Johan Godinho](https://www.youtube.com/watch?v=IOKmwL6CAcw) – Video tutorial as an example of developing a budgeting application using Python and Tkinter.
+- [Python Expense Tracker Tutorial – PythonGeeks](https://pythongeeks.org/python-expense-tracker/) – A step-by-step tutorial demonstrating how to create an expense tracking application with a graphical user interface.
+- [Python Tkinter Expense Tracker – GitHub](https://github.com/hemabavireddy28/Expense-Tracker) – An example project demonstrating how to record expenses, manage categories and store financial data using CSV files.
 
